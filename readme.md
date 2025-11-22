@@ -1,4 +1,6 @@
 # Easier Batch - Python Batch Processing Framework
+<img width="602" height="160" alt="image" src="https://github.com/user-attachments/assets/a3e808a6-b271-4e69-b82d-00a740a39c8f" />
+
 
 A comprehensive, Spring Batch-inspired batch processing framework for Python that provides robust, scalable, and fault-tolerant batch job execution capabilities.
 
