@@ -9,7 +9,6 @@ A comprehensive, Spring Batch-inspired batch processing framework for Python tha
 This framework implements enterprise-grade batch processing patterns in Python, offering a clean separation of concerns through the **Reader-Processor-Writer** pattern. It's designed for processing large volumes of data efficiently with built-in error handling, retry mechanisms, transaction management, and comprehensive job monitoring.
 
 ## 🏗️ Architecture
-
 ### Core Components Flow
 
 ```
